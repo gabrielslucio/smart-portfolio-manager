@@ -28,7 +28,7 @@ It integrates multiple systems to provide automated project insights, including 
 
 ---
 
-## 🧠 AI Agent (OutSystems + Claude)
+## AI Agent (OutSystems + Claude)
 
 A custom agent was developed within OutSystems to generate project insights using Claude.
 
